@@ -13,6 +13,16 @@ This is the starting point for learning all about Brigade, how to become a contr
 
 We're extremely excited you want to contribute to Brigade. Make sure to read the [Developer Guide][dev-guide] from our documentation.
 
+# Contributing
+
+This Brigade Community repo accepts contributions via GitHub pull requests. This document outlines the process to help get your contribution accepted.
+
+## Signed commits
+
+A DCO sign-off is required for contributions to repos in the brigadecore org.  See the documentation in
+[Brigade's Contributing guide](https://github.com/brigadecore/brigade/blob/master/CONTRIBUTING.md#signed-commits)
+for how this is done.
+
 [slack]: https://kubernetes.slack.com/messages/C87MF1RFD/
 [zoom]: https://zoom.us/j/280806496
 [dev-guide]: https://azure.github.io/brigade/topics/developers.html
