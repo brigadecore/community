@@ -25,4 +25,4 @@ for how this is done.
 
 [slack]: https://kubernetes.slack.com/messages/C87MF1RFD/
 [zoom]: https://zoom.us/j/280806496
-[dev-guide]: https://azure.github.io/brigade/topics/developers.html
+[dev-guide]: https://docs.brigade.sh/topics/developers/
