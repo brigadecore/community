@@ -7,7 +7,8 @@ This is the starting point for learning all about Brigade, how to become a contr
 # Communication
 
 - Join us on the [Kubernetes Slack, in the #brigade channel][slack]
-- Join our [weekly meeting][zoom]
+- Join our [bi-weekly meeting][zoom]
+- Running agenda, meeting date/time and notes can be found in the [Brigade Community Meeting doc][brigade-meeting]
 
 # Your first contribution
 
@@ -26,3 +27,4 @@ for how this is done.
 [slack]: https://kubernetes.slack.com/messages/C87MF1RFD/
 [zoom]: https://zoom.us/j/280806496
 [dev-guide]: https://docs.brigade.sh/topics/developers/
+[brigade-meeting]: https://hackmd.io/KyyZMHyzSzGEiQY0ZHPqgw?view
