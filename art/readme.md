@@ -12,36 +12,36 @@ _^ icon_
 
 # Brand Colors
 
-![Helm-3-Color-Palettes-Light](./images/brigade-styleguide-01.png)
+![Brigade-Styleguide-Colors](./images/brigade-styleguide-01.png)
 
 
 ### Color Values
 
 ```
-// primary
-navy           #0F1689
+// primary brand
+$slate    "space cadet"      #191051
 
-// secondary
-blue-dark      #090E6F
-blue-light     #1B53C2
+// primary accents
+$blue     "picton blue"      #4BB9E5
+$green    "persion green"    #00AD9D
+$purplel  "plum soap"        #D6D2EA
 
-// shades
-shade-dark     #050843
-shade-mid      #B7C2E9
-shade-light    #DBE1F3
+// secondary dark shades
+$indigo   "indigo due"       #191E93
+$red      "cinnamon satin"   #D0677D
+$purpled  "old lavender"     #686181
 
-// accents
-accent-blue    #3B82BF
-accent-green   #2F84A7
-accent-red     #95297C
-accent-yellow  #D1AA9B
+// secondary light shades
+$greenl   "light periwinkle" #BFD0D7
+$pink     "queen pink"       #F2D2D8
+$gray     "bright gray"      #EBE9F3
 ```
 
-![brand-theme](./images/brigade-styleguide-02.png)
+![Brigade-Styleguide-Theme](./images/brigade-styleguide-02.png)
 
 # Typography
 
-![type-notes](./images/brigade-styleguide-03.png)
+![Brigade-Styleguide-Typography](./images/brigade-styleguide-03.png)
 
 * [Edmondsans](http://www.losttype.com/font/?name=edmondsans) _(James T Edmondson, [Licence](./typefaces/Edmondsans 5.pdf).)_
 * [Work Sans](https://fonts.google.com/specimen/Work+Sans) _(Wei Huang, [Licence](https://fonts.google.com/specimen/Work+Sans#license))_
