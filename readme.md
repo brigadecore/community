@@ -4,6 +4,12 @@ Welcome to the Brigade community!
 
 This is the starting point for learning all about Brigade, how to become a contributor, improve the docs or how to get started in giving a talk about Brigade. Welcome!
 
+* [Core Project](https://github.com/brigadecore/brigade)
+* [Documentation](https://github.com/brigadecore/brigade/tree/master/docs)
+* [Logos](https://github.com/brigadecore/community/tree/master/art)
+* [Contributing](https://github.com/brigadecore/community/blob/master/contributing.md)
+* [Governance](https://github.com/brigadecore/community/blob/master/governance.md)
+
 # Communication
 
 - Join us on the [Kubernetes Slack, in the #brigade channel][slack]
