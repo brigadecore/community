@@ -1,36 +1,44 @@
 # Brigade Community
 
+<img width="100" align="left" src="art/images/icon-brigade.png">
+
 Welcome to the Brigade community!
 
-This is the starting point for learning all about Brigade, how to become a contributor, improve the docs or how to get started in giving a talk about Brigade. Welcome!
+This is the starting point for learning all about Brigade, how to become a
+contributor, improve the docs or how to get started in giving a talk about
+Brigade.
 
-* [Core Project](https://github.com/brigadecore/brigade)
-* [Documentation](https://github.com/brigadecore/brigade/tree/master/docs)
-* [Logos](https://github.com/brigadecore/community/tree/master/art)
-* [Contributing](https://github.com/brigadecore/community/blob/master/contributing.md)
-* [Governance](https://github.com/brigadecore/community/blob/master/governance.md)
+<br clear="left"/>
 
-# Communication
+* [Core Project (v2)][repo]
+* [Documentation (WIP v2 Refresh)][docs]
+* [Logos](art)
+* [Contributing](contributing.md)
+* [Governance](governance.md)
 
-- Join us on the [Kubernetes Slack, in the #brigade channel][slack]
-- Join our [bi-weekly meeting][zoom]
-- Running agenda, meeting date/time and notes can be found in the [Brigade Community Meeting doc][brigade-meeting]
+## Communication
 
-# Your first contribution
+- Join us on the Kubernetes Slack, in the [#brigade][slack] channel]
+- Join our bi-weekly community meeting -- now back from hiatus:
+    - [Zoom][zoom]
+    - [Schedule, agenda, and notes][meeting]
 
-We're extremely excited you want to contribute to Brigade. Make sure to read the [Developer Guide][dev-guide] from our documentation.
+## Your first contribution
 
-# Contributing
+We're extremely excited you want to contribute to Brigade. Make sure to read our
+[developer guide][dev-guide] for technical guidance and our
+[contributing guide](contributing.md) for information about signing your
+commits.
 
-This Brigade Community repo accepts contributions via GitHub pull requests. This document outlines the process to help get your contribution accepted.
+## Code of Conduct
 
-## Signed commits
+Participation in the Brigade project is governed by the
+[CNCF Code of Conduct][conduct].
 
-A DCO sign-off is required for contributions to repos in the brigadecore org.  See the documentation in
-[Brigade's Contributing guide](https://github.com/brigadecore/brigade/blob/master/CONTRIBUTING.md#signed-commits)
-for how this is done.
-
+[repo]: https://github.com/brigadecore/brigade/tree/v2
+[docs]: https://v2--brigade-docs.netlify.app/
 [slack]: https://kubernetes.slack.com/messages/C87MF1RFD/
-[zoom]: https://zoom.us/j/280806496
-[dev-guide]: https://docs.brigade.sh/topics/developers/
-[brigade-meeting]: https://hackmd.io/KyyZMHyzSzGEiQY0ZHPqgw?view
+[zoom]: https://us02web.zoom.us/j/8846897113
+[meeting]: https://hackmd.io/KyyZMHyzSzGEiQY0ZHPqgw?view
+[dev-guide]: https://v2--brigade-docs.netlify.app/topics/developers/
+[conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
