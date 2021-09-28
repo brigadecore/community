@@ -18,7 +18,7 @@ Brigade.
 
 ## Communication
 
-- Join us on the Kubernetes Slack, in the [#brigade][slack] channel]
+- Join us on the Kubernetes Slack, in the [#brigade][slack] channel
 - Join our bi-weekly community meeting -- now back from hiatus:
     - [Zoom][zoom]
     - [Schedule, agenda, and notes][meeting]
