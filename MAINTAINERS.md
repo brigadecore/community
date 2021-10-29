@@ -1,24 +1,38 @@
 # Brigade Maintainers
 
-Maintainer permissions within GitHub are governed by membership in the
-__@brigadecore/maintainers__ team, but because the membership of this team is
-not publicly visible, this document serves as the public record of individuals
-with authority and accountability for _all_ repositories within the
-__@brigadecore__ GitHub org.
+Maintainer permissions within the __brigadecore__ GitHub org are governed by
+membership in various teams, but because the membership of each team is not
+publicly visible, this document serves as the public record of individuals with
+authority and accountability for each repository.
 
-Individual repositories within the __@brigadecore__ GitHub org may have
-_additional_ maintainers, and in such cases, will have their own
-`MAINTAINERS.md` linking back to here and listing those additional individuals. 
+## Org Maintainers
 
-## brigadecore Org Maintainers
+### Active
+
+These individuals currently have authority and accountability for all elements
+of the Brigade project.
 
 * [Matt Butcher](https://github.com/technosophos)
 * [Vaughn Dice](https://github.com/vdice)
 * [Radu Matei](https://github.com/radu-matei)
 * [Kent Rancourt](https://github.com/krancour)
 
-## brigadecore Org Maintainers Emeritus
+### Emeritus
+
+These individuals formerly served as org maintainers and the Brigade project
+owes each of them a debt of gratitude for their past contributions.
 
 * [Yusuke Kuoka](https://github.com/mumoshu)
 * [Luke Patrick](https://github.com/lukepatrick)
 * [Adam Reese](https://github.com/adamreese)
+
+## Repo Maintainers
+
+Select repositories have additional maintainers whose authority and
+accountability are limited to those repositories.
+
+| Repository | Maintainers |
+|------------|-------------|
+| [blog](https://github.com/brigadecore/blog) | [Ronan Flynn-Curran](https://github.com/flynnduism) |
+| [brigade-www](https://github.com/brigadecore/brigade-www) | [Ronan Flynn-Curran](https://github.com/flynnduism) |
+| [community](https://github.com/brigadecore/community) | [Karen Chu](https://github.com/karenhchu), [Ronan Flynn-Curran](https://github.com/flynnduism) |
