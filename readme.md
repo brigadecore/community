@@ -1,5 +1,7 @@
 # Brigade Community
 
+[![slack](https://img.shields.io/badge/slack-brigade-brightgreen.svg?logo=slack)](https://kubernetes.slack.com/messages/C87MF1RFD)
+
 <img width="100" align="left" src="art/images/icon-brigade.png">
 
 Welcome to the Brigade community!
