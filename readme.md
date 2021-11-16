@@ -40,7 +40,7 @@ Participation in the Brigade project is governed by the
 [repo]: https://github.com/brigadecore/brigade/tree/v2
 [docs]: https://v2--brigade-docs.netlify.app/
 [slack]: https://kubernetes.slack.com/messages/C87MF1RFD/
-[zoom]: https://us02web.zoom.us/j/8846897113
+[zoom]: https://zoom.us/j/6958416637?pwd=RzROK2NtWSttdjBzQ1pmclBTc3NGQT09
 [meeting]: https://hackmd.io/KyyZMHyzSzGEiQY0ZHPqgw?view
 [dev-guide]: https://v2--brigade-docs.netlify.app/topics/developers/
 [conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
