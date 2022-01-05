@@ -33,6 +33,10 @@ accountability are limited to those repositories.
 
 | Repository | Maintainers |
 |------------|-------------|
-| [blog](https://github.com/brigadecore/blog) | [Ronan Flynn-Curran](https://github.com/flynnduism) |
-| [brigade-www](https://github.com/brigadecore/brigade-www) | [Ronan Flynn-Curran](https://github.com/flynnduism) |
-| [community](https://github.com/brigadecore/community) | [Karen Chu](https://github.com/karenhchu), [Ronan Flynn-Curran](https://github.com/flynnduism) |
+| [blog](https://github.com/brigadecore/blog) | [Karen Chu], [Ronan Flynn-Curran], [Bridget Kromhout] |
+| [brigade-www](https://github.com/brigadecore/brigade-www) | [Ronan Flynn-Curran] |
+| [community](https://github.com/brigadecore/community) | [Karen Chu], [Ronan Flynn-Curran] |
+
+[Karen Chu]: https://github.com/karenhchu
+[Ronan Flynn-Curran]: https://github.com/flynnduism
+[Bridget Kromhout]: https://github.com/bridgetkromhout
