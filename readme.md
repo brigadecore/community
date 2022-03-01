@@ -12,8 +12,8 @@ Brigade.
 
 <br clear="left"/>
 
-* [Core Project (v2)][repo]
-* [Documentation (WIP v2 Refresh)][docs]
+* [Core Project][repo]
+* [Documentation][docs]
 * [Logos](art)
 * [Contributing](contributing.md)
 * [Governance](governance.md)
@@ -37,9 +37,9 @@ commits.
 Participation in the Brigade project is governed by the
 [CNCF Code of Conduct][conduct].
 
-[repo]: https://github.com/brigadecore/brigade/tree/v2
-[docs]: https://v2--brigade-docs.netlify.app/
-[slack]: https://kubernetes.slack.com/messages/C87MF1RFD/
+[repo]: https://github.com/brigadecore/brigade
+[docs]: https://docs.brigade.sh
+[slack]: https://slack.brigade.sh
 [zoom]: https://zoom.us/j/6958416637?pwd=RzROK2NtWSttdjBzQ1pmclBTc3NGQT09
 [meeting]: https://hackmd.io/KyyZMHyzSzGEiQY0ZHPqgw?view
 [dev-guide]: https://v2--brigade-docs.netlify.app/topics/developers/
