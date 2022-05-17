@@ -31,7 +31,7 @@ Here are the steps to sign your work:
 
     1. Configuring your git client appropriately. This is one-time setup.
 
-       ```console
+       ```shell
        $ git config user.name <legal name>
        $ git config user.email <email address you use for GitHub>
        ```
@@ -40,7 +40,7 @@ Here are the steps to sign your work:
        configure your git client to use these settings globally instead of only
        for Brigade repositories:
 
-       ```console
+       ```shell
        $ git config --global user.name <legal name>
        $ git config --global user.email <email address you use for GitHub>
        ```
@@ -48,14 +48,14 @@ Here are the steps to sign your work:
     1. Using the `--signoff` or `-s` (lowercase) flag when making your commit.
        For example:
 
-       ```console
+       ```shell
        $ git commit --message "<commit message>" --signoff
        ```
 
        If you ever make a commit and forget to use the `--signoff` flag, you
        can amend your commit with this information before pushing:
 
-       ```console
+       ```shell
        $ git commit --amend --signoff
        ```
 
@@ -103,7 +103,7 @@ of this subject is available from GitHub.
 
 1. If `gpg` was already installed, list available keys:
 
-   ```console
+   ```shell
    $ gpg --list-secret-keys --keyid-format LONG
    ```
 
@@ -113,20 +113,20 @@ of this subject is available from GitHub.
    follow the prompts. You should generate an __RSA__ key with a length of at
    least __4096__ bits.
 
-   ```console
+   ```shell
    $ gpg --full-generate-key
    ```
 
    If your `gpg` version is less than 2.1.17, use the following command instead:
 
-   ```console
+   ```shell
    $ gpg --default-new-key-algo rsa4096 --gen-key
    ```
 
    Now that your new key has been generated, re-list available keys as in the
    previous step:
 
-   ```console
+   ```shell
    $ gpg --list-secret-keys --keyid-format LONG
    ```
 
@@ -136,7 +136,7 @@ of this subject is available from GitHub.
    In the example below, the key ID is `3AA5C34371567BD2` (found on the line
    beginning with `sec`):
 
-   ```console
+   ```shell
    $ gpg --list-secret-keys --keyid-format LONG
    /Users/hubot/.gnupg/secring.gpg
    ------------------------------------
@@ -147,7 +147,7 @@ of this subject is available from GitHub.
 
 1. Configure your git client to use the desired key:
 
-   ```console
+   ```shell
    $ git config user.signingkey <key id>
    ```
 
@@ -155,7 +155,7 @@ of this subject is available from GitHub.
    commits, you can configure your git client to use this setting globally
    instead of only for Brigade repositories:
 
-   ```console
+   ```shell
    $ git config --global user.signingkey <key id>
    ```
 
@@ -163,7 +163,7 @@ of this subject is available from GitHub.
 
     1. Export the public half of the key:
 
-       ```console
+       ```shell
        $ gpg --armor --export <key id>
        ```
 
@@ -183,27 +183,27 @@ of this subject is available from GitHub.
    to adding the DCO signature. Simply use the `--gpg-sign` or `-S` (uppercase)
    flag:
 
-   ```console
+   ```shell
    $ git commit --message "<commit message>" --gpg-sign
    ```
 
    If you ever make a commit and forget to use the `--gpg-sign` flag, you
    can amend your commit with this information before pushing:
 
-   ```console
+   ```shell
    $ git commit --amend --gpg-sign
    ```
 
    Recalling that DCO sign-off is _also_ required, the full command to satisfy
    all signing requirements is:
 
-   ```console
+   ```shell
    $ git commit --message "<commit message>" --signoff --gpg-sign
    ```
 
    Or more succinctly:
 
-   ```console
+   ```shell
    $ git commit --message "<commit message>" -s -S
    ```
 
@@ -211,13 +211,13 @@ of this subject is available from GitHub.
    repository, you may spare yourself from having to remember the `-S` flag
    by signing all commits by default:
    
-   ```console
+   ```shell
    $ git config commit.gpgSign true
    ```
    
    Or to enable this globally:
    
-   ```console
+   ```shell
    $ git config --global commit.gpgSign true
    ```
 
