@@ -34,9 +34,17 @@ accountability are limited to those repositories.
 | Repository | Maintainers |
 |------------|-------------|
 | [blog](https://github.com/brigadecore/blog) | [Karen Chu], [Ronan Flynn-Curran], [Bridget Kromhout] |
+| [brigade-cron-event-source](https://github.com/brigadecore/brigade-cron-event-source) | [Jorge Arteiro] |
 | [brigade-www](https://github.com/brigadecore/brigade-www) | [Ronan Flynn-Curran] |
 | [community](https://github.com/brigadecore/community) | [Karen Chu], [Ronan Flynn-Curran] |
+| [docs-portuguese](https://github.com/brigadecore/docs-portuguese) | [Jorge Arteiro], [Lucas Jesus], [Felipe Schulz] |
+| [docs-hindi](https://github.com/brigadecore/docs-hindi) | [Attreyee Mukherjee], [Shubham Sharma] |
 
+[Jorge Arteiro]: https://github.com/jorgearteiro
 [Karen Chu]: https://github.com/karenhchu
 [Ronan Flynn-Curran]: https://github.com/flynnduism
+[Lucas Jesus]: https://github.com/lucasjesuss
 [Bridget Kromhout]: https://github.com/bridgetkromhout
+[Attreyee Mukherjee]: https://github.com/a-muk
+[Felipe Schulz]: https://github.com/felipeschulz
+[Shubham Sharma]: https://github.com/shubham1172
