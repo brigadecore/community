@@ -12,18 +12,19 @@ authority and accountability for each repository.
 These individuals currently have authority and accountability for all elements
 of the Brigade project.
 
-* [Matt Butcher](https://github.com/technosophos)
-* [Vaughn Dice](https://github.com/vdice)
-* [Radu Matei](https://github.com/radu-matei)
-* [Kent Rancourt](https://github.com/krancour)
+* [Jorge Arteiro](https://github.com/jorgearteiro)
 
 ### Emeritus
 
 These individuals formerly served as org maintainers and the Brigade project
 owes each of them a debt of gratitude for their past contributions.
 
+* [Matt Butcher](https://github.com/technosophos)
+* [Vaughn Dice](https://github.com/vdice)
 * [Yusuke Kuoka](https://github.com/mumoshu)
+* [Radu Matei](https://github.com/radu-matei)
 * [Luke Patrick](https://github.com/lukepatrick)
+* [Kent Rancourt](https://github.com/krancour)
 * [Adam Reese](https://github.com/adamreese)
 
 ## Repo Maintainers
@@ -34,13 +35,11 @@ accountability are limited to those repositories.
 | Repository | Maintainers |
 |------------|-------------|
 | [blog](https://github.com/brigadecore/blog) | [Karen Chu], [Ronan Flynn-Curran], [Bridget Kromhout] |
-| [brigade-cron-event-source](https://github.com/brigadecore/brigade-cron-event-source) | [Jorge Arteiro] |
 | [brigade-www](https://github.com/brigadecore/brigade-www) | [Ronan Flynn-Curran] |
 | [community](https://github.com/brigadecore/community) | [Karen Chu], [Ronan Flynn-Curran] |
-| [docs-portuguese](https://github.com/brigadecore/docs-portuguese) | [Jorge Arteiro], [Lucas Jesus], [Felipe Schulz] |
+| [docs-portuguese](https://github.com/brigadecore/docs-portuguese) | [Lucas Jesus], [Felipe Schulz] |
 | [docs-hindi](https://github.com/brigadecore/docs-hindi) | [Attreyee Mukherjee], [Shubham Sharma] |
 
-[Jorge Arteiro]: https://github.com/jorgearteiro
 [Karen Chu]: https://github.com/karenhchu
 [Ronan Flynn-Curran]: https://github.com/flynnduism
 [Lucas Jesus]: https://github.com/lucasjesuss
